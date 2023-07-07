@@ -1,4 +1,4 @@
-# NoSQL and SQL
+# Redis
 
 ## **Question 1: Answer**
 
@@ -40,7 +40,7 @@ Here are some of the limitations of Redis:
 
 ## **Question 3: Answer**
 
-_I have used **Node.js** for performing basic crud operatios using redis as database._
+_I am using **Node.js** for performing basic crud operatios using redis as database._
 
 * First you need to install Redis using npm on node.js to perform the following commands.
 
@@ -89,7 +89,7 @@ console.log(remainingTimeToLive); // 1 day 0:00:00
 ```
 ## **Question 5: Answer**
 
-_I have used **Node.js** for performing basic crud operatios using redis as database._
+_I have used **Node.js** for commands and redis as a database._
 
 * First you need to install Redis using npm on node.js to perform the following commands.
 
